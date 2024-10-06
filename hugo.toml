@@ -1,0 +1,4 @@
+baseURL = 'https://raefarine.net/'
+languageCode = 'en-us'
+title = 'Rae Farine'
+theme = "hugo-theme-console"
